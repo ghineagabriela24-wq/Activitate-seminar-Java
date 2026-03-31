@@ -1,0 +1,4 @@
+Ion,35,info
+Mara,21,cibernetica
+Ioana,24,statistica
+John,40,info
