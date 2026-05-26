@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+    <carte id="1">
+        <titlu>Baltagul</titlu>
+        <autor>Mihail Sadoveanu</autor>
+        <an>1930</an>
+        <pret>35.5</pret>
+    </carte>
+    <carte id="2">
+        <titlu>Ion</titlu>
+        <autor>Liviu Rebreanu</autor>
+        <an>1920</an>
+        <pret>42.0</pret>
+    </carte>
+    <carte id="3">
+        <titlu>Enigma Otiliei</titlu>
+        <autor>George Calinescu</autor>
+        <an>1938</an>
+        <pret>39.99</pret>
+    </carte>
+</biblioteca>
